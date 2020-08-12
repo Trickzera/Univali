@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\bin\Debug\Conversor de Moedas 2.exe.config
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\bin\Debug\Conversor de Moedas 2.exe
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\bin\Debug\Conversor de Moedas 2.pdb
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\obj\Debug\Conversor_de_Moedas_2.Form1.resources
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\obj\Debug\Conversor_de_Moedas_2.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\obj\Debug\Conversor de Moedas.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\obj\Debug\Conversor de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\obj\Debug\Conversor de Moedas 2.exe
+C:\Users\Pichau\source\repos\Conversor de Moedas 2\Conversor de Moedas 2\obj\Debug\Conversor de Moedas 2.pdb
