@@ -1,0 +1,2 @@
+C:\Users\patri\source\repos\Desafio\Desafio\obj\Debug\Desafio.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
